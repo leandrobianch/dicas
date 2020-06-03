@@ -1,0 +1,4 @@
+/*https://code.visualstudio.com/docs/getstarted/keybindings*/
+
+{ "key": "ctrl+-",      "command": "search.focus.previousInputBox" } ,
+{ "key": "ctrl+k ctrl+d",      "command": "csharpfixformat.formatFolder" }

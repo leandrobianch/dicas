@@ -1,0 +1,19 @@
+{
+    "recommendations": [
+      "ms-dotnettools.csharp",      
+      "vscode-icons-team.vscode-icons",
+      "formulahendry.dotnet-test-explorer",
+      "ryanluker.vscode-coverage-gutters",
+      "hbenl.vscode-test-explorer",
+      "connorshea.vscode-test-explorer-status-bar",
+      "wghats.vscode-nxunit-test-adapter",
+      "jolhe.csharp-netcore-extensionpack",
+      "doggy8088.netcore-extension-pack",
+      "thiagorjes.csharpwebapi",
+      "amillard98.specflow-tools",
+      "alexkrechik.cucumberautocomplete",
+      "adrianwilczynski.add-reference",
+      "ms-vscode.powershell",
+      "jebbs.plantuml"
+    ]
+  }
